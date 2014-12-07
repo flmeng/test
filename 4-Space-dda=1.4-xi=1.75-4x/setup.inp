@@ -1,0 +1,6 @@
+0.7         !s            spacing of  lattice
+13          !NN           number of lattices for summation
+0.2         !r0           cutoff of the minimum lattice  (unit: fm)
+1.75        !xi           correlation length
+7           !num          number of correlated points.(-8*s, 8*s)
+7.0         !ssc          the spacing for 4-point correlation is ssc*0.2
